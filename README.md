@@ -1,7 +1,7 @@
-- Hello!! I'm David-Chazoule!! A web Developer Julior.
+- Hello!! I'm David-Chazoule!! A web Developer Julior. :mortar_board: 
 
 ---
-- I am currently in web developer training at the Wild Code School ( React & Node.js) :mortar_board:
+- I am currently in web developer training at the Wild Code School ( React & Node.js):office:  
 
 - I am looking for from 4 to 6 months internship starting in September in Paris and its surroundings :computer:
 
