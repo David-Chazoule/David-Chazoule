@@ -14,7 +14,7 @@
 
 ---
 
-:telephone_receiver: Contact
+:telephone_receiver: <div style="color: red">Contact</div>
 
 <a href="https://www.linkedin.com/in/david-chazoule/">
 <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg " alt="Linkedin" width="50" height="50"/>
