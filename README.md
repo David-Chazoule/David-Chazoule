@@ -1,4 +1,5 @@
-- Hello!! I'm David-Chazoule!! A web Developer Julior. :computer: 
+- Hello!! 
+- I'm David-Chazoule!! A web Developer Julior. :computer: 
 
 ---
 - I am currently in web developer training at the Wild Code School ( React & Node.js) :mortar_board:  
