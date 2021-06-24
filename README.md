@@ -13,3 +13,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React Logo Logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="Node Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" alt="Mysql Logo" width="50" height="50"/> 
 
 ---
+
+Contact
+
+<a href="https://www.linkedin.com/in/david-chazoule/">
+<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg " alt="Linkedin"/>
+</a>
+ 
