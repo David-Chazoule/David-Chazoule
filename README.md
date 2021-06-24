@@ -14,9 +14,9 @@
 
 ---
 
-Contact
+:telephone_receiver: Contact
 
 <a href="https://www.linkedin.com/in/david-chazoule/">
-<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg " alt="Linkedin"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg " alt="Linkedin" width="50" height="50"/>
 </a>
  
