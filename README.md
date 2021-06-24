@@ -3,7 +3,7 @@
 ---
 - I am currently in web developer training at the Wild Code School ( React & Node.js) :mortar_board:  
 
-- I am looking for from 4 to 6 months internship starting in September in Paris and its surroundings :office:
+- I am looking for an internship  from 4 to 6 months starting in September in Paris and its surroundings :office:
 
 ---
 
